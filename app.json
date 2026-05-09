@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "PayFusion Countries",
+    "slug": "payfusion-countries",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#0B1021"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.payfusion.countries"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0B1021"
+      },
+      "package": "com.payfusion.countries"
+    },
+    "web": {},
+    "plugins": [
+      "expo-asset"
+    ]
+  }
+}
